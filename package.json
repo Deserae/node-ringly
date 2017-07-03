@@ -1,0 +1,27 @@
+{
+  "name": "node-ringly",
+  "version": "1.0.0",
+  "description": "Ringly protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/deserae/node-ringly.git"
+  },
+  "keywords": [
+    "noble",
+    "bluetooth",
+    "ringly"
+  ],
+  "author": "Deserae Dias, Jacob Rosenthal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deserae/node-ringly/issues"
+  },
+  "homepage": "https://github.com/deserae/node-ringly",
+  "dependencies": {
+    "noble": "^1.8.1"
+  }
+}
